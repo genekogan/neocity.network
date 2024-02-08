@@ -19,3 +19,9 @@
 body {
   color: rgb(var(--foreground-rgb));
 }
+
+.main-content {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
