@@ -23,7 +23,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold absolute top-0 left-0 text-white" style={{ padding: '10px' }}>Neocity.network</h1>
       <div className="flex justify-center">
         <Image
-          src="https://edenartlab-prod-data.s3.us-east-1.amazonaws.com/13b93f61f282a10f345672d6447a915cb4712b03b2935a81b1e4725e462a20a9.jpg"
+          src="https://edenartlab-prod-data.s3.us-east-1.amazonaws.com/71005680997a7957d7fc3e7850286cfffbde118466c01eafd0e555318ca0c1b5.jpg"
           className="rounded-lg shadow-lg"
           alt="Neocity.network"
           width={1600}
